@@ -1,0 +1,20 @@
+.navbar {
+  background-color: grey;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+}
+
+.nav-link:hover {
+  background-color: #555;
+}

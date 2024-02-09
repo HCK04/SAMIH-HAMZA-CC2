@@ -1,0 +1,26 @@
+
+/*  QUESTION 1*/
+h1{
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 5px red;
+}
+/*  QUESTION 2*/
+
+h2{
+    text-decoration: underline;
+}
+
+/*  QUESTION 3*/
+
+section h2{
+
+color: green;
+}
+
+/*  QUESTION 4*/
+h2 + p {
+color: blue;
+font-style: italic;
+}
+
